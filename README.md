@@ -8,5 +8,5 @@ Um gerador de marcas da agua feito em python
 
 ## Considerações importantes
 
-Quando uma marca da aguá não é selecionada usando o argumento `-w` a marca da água padrão sera usada
+Quando uma marca da água não é selecionada usando o argumento `-w` a marca da água padrão sera usada
 Modifique a marca da agua padrão na pasta onde o script foi instalado
